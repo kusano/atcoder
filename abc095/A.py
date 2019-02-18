@@ -1,0 +1,1 @@
+print 700+100*raw_input().count("o")

@@ -1,0 +1,1 @@
+print "Yes" if sorted(raw_input())==list("abc") else "No"

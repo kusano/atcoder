@@ -1,0 +1,1 @@
+print"".join(a[0]for a in raw_input().split())

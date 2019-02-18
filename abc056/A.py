@@ -1,0 +1,1 @@
+print["D","H"][raw_input()in ["H H","D D"]]

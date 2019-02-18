@@ -1,0 +1,1 @@
+print"NO"if input()%3 else"YES"
