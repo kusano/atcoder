@@ -1,0 +1,1 @@
+print 10**input()+7
